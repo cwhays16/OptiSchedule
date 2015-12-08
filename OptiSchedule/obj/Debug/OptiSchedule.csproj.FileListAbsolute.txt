@@ -1,0 +1,362 @@
+c:\users\christopher\documents\visual studio 2013\Projects\OptiSchedule\OptiSchedule\bin\OptiSchedule.dll.config
+c:\users\christopher\documents\visual studio 2013\Projects\OptiSchedule\OptiSchedule\bin\OptiSchedule.dll
+c:\users\christopher\documents\visual studio 2013\Projects\OptiSchedule\OptiSchedule\bin\OptiSchedule.pdb
+c:\users\christopher\documents\visual studio 2013\Projects\OptiSchedule\OptiSchedule\bin\Antlr3.Runtime.dll
+c:\users\christopher\documents\visual studio 2013\Projects\OptiSchedule\OptiSchedule\bin\AspNet.ScriptManager.bootstrap.dll
+c:\users\christopher\documents\visual studio 2013\Projects\OptiSchedule\OptiSchedule\bin\AspNet.ScriptManager.jQuery.dll
+c:\users\christopher\documents\visual studio 2013\Projects\OptiSchedule\OptiSchedule\bin\EntityFramework.dll
+c:\users\christopher\documents\visual studio 2013\Projects\OptiSchedule\OptiSchedule\bin\EntityFramework.SqlServer.dll
+c:\users\christopher\documents\visual studio 2013\Projects\OptiSchedule\OptiSchedule\bin\Microsoft.AspNet.FriendlyUrls.dll
+c:\users\christopher\documents\visual studio 2013\Projects\OptiSchedule\OptiSchedule\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\christopher\documents\visual studio 2013\Projects\OptiSchedule\OptiSchedule\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\christopher\documents\visual studio 2013\Projects\OptiSchedule\OptiSchedule\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\christopher\documents\visual studio 2013\Projects\OptiSchedule\OptiSchedule\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+c:\users\christopher\documents\visual studio 2013\Projects\OptiSchedule\OptiSchedule\bin\Microsoft.Owin.dll
+c:\users\christopher\documents\visual studio 2013\Projects\OptiSchedule\OptiSchedule\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\christopher\documents\visual studio 2013\Projects\OptiSchedule\OptiSchedule\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\christopher\documents\visual studio 2013\Projects\OptiSchedule\OptiSchedule\bin\Microsoft.Owin.Security.dll
+c:\users\christopher\documents\visual studio 2013\Projects\OptiSchedule\OptiSchedule\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\christopher\documents\visual studio 2013\Projects\OptiSchedule\OptiSchedule\bin\Microsoft.Owin.Security.Google.dll
+c:\users\christopher\documents\visual studio 2013\Projects\OptiSchedule\OptiSchedule\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\christopher\documents\visual studio 2013\Projects\OptiSchedule\OptiSchedule\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\christopher\documents\visual studio 2013\Projects\OptiSchedule\OptiSchedule\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\christopher\documents\visual studio 2013\Projects\OptiSchedule\OptiSchedule\bin\Microsoft.ScriptManager.MSAjax.dll
+c:\users\christopher\documents\visual studio 2013\Projects\OptiSchedule\OptiSchedule\bin\Microsoft.ScriptManager.WebForms.dll
+c:\users\christopher\documents\visual studio 2013\Projects\OptiSchedule\OptiSchedule\bin\Microsoft.Web.Infrastructure.dll
+c:\users\christopher\documents\visual studio 2013\Projects\OptiSchedule\OptiSchedule\bin\Newtonsoft.Json.dll
+c:\users\christopher\documents\visual studio 2013\Projects\OptiSchedule\OptiSchedule\bin\Owin.dll
+c:\users\christopher\documents\visual studio 2013\Projects\OptiSchedule\OptiSchedule\bin\System.Web.Optimization.dll
+c:\users\christopher\documents\visual studio 2013\Projects\OptiSchedule\OptiSchedule\bin\System.Web.Providers.dll
+c:\users\christopher\documents\visual studio 2013\Projects\OptiSchedule\OptiSchedule\bin\WebGrease.dll
+c:\users\christopher\documents\visual studio 2013\Projects\OptiSchedule\OptiSchedule\bin\System.Web.Optimization.xml
+c:\users\christopher\documents\visual studio 2013\Projects\OptiSchedule\OptiSchedule\bin\Antlr3.Runtime.pdb
+c:\users\christopher\documents\visual studio 2013\Projects\OptiSchedule\OptiSchedule\bin\Newtonsoft.Json.xml
+c:\users\christopher\documents\visual studio 2013\Projects\OptiSchedule\OptiSchedule\bin\Microsoft.AspNet.FriendlyUrls.xml
+c:\users\christopher\documents\visual studio 2013\Projects\OptiSchedule\OptiSchedule\bin\EntityFramework.xml
+c:\users\christopher\documents\visual studio 2013\Projects\OptiSchedule\OptiSchedule\bin\EntityFramework.SqlServer.xml
+c:\users\christopher\documents\visual studio 2013\Projects\OptiSchedule\OptiSchedule\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\christopher\documents\visual studio 2013\Projects\OptiSchedule\OptiSchedule\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\christopher\documents\visual studio 2013\Projects\OptiSchedule\OptiSchedule\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\christopher\documents\visual studio 2013\Projects\OptiSchedule\OptiSchedule\bin\Microsoft.Owin.xml
+c:\users\christopher\documents\visual studio 2013\Projects\OptiSchedule\OptiSchedule\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\christopher\documents\visual studio 2013\Projects\OptiSchedule\OptiSchedule\bin\Microsoft.Owin.Security.xml
+c:\users\christopher\documents\visual studio 2013\Projects\OptiSchedule\OptiSchedule\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\christopher\documents\visual studio 2013\Projects\OptiSchedule\OptiSchedule\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\christopher\documents\visual studio 2013\Projects\OptiSchedule\OptiSchedule\bin\Microsoft.Owin.Security.Google.xml
+c:\users\christopher\documents\visual studio 2013\Projects\OptiSchedule\OptiSchedule\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\christopher\documents\visual studio 2013\Projects\OptiSchedule\OptiSchedule\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\christopher\documents\visual studio 2013\Projects\OptiSchedule\OptiSchedule\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\christopher\documents\visual studio 2013\Projects\OptiSchedule\OptiSchedule\obj\Debug\OptiSchedule.csprojResolveAssemblyReference.cache
+c:\users\christopher\documents\visual studio 2013\Projects\OptiSchedule\OptiSchedule\obj\Debug\OptiSchedule.dll
+c:\users\christopher\documents\visual studio 2013\Projects\OptiSchedule\OptiSchedule\obj\Debug\OptiSchedule.pdb
+C:\Users\Christopher\Documents\Visual Studio 2013\Projects\OptiSchedule\OptiSchedule\OptiSchedule\bin\OptiSchedule.dll.config
+C:\Users\Christopher\Documents\Visual Studio 2013\Projects\OptiSchedule\OptiSchedule\OptiSchedule\bin\OptiSchedule.dll
+C:\Users\Christopher\Documents\Visual Studio 2013\Projects\OptiSchedule\OptiSchedule\OptiSchedule\bin\OptiSchedule.pdb
+C:\Users\Christopher\Documents\Visual Studio 2013\Projects\OptiSchedule\OptiSchedule\OptiSchedule\bin\Antlr3.Runtime.dll
+C:\Users\Christopher\Documents\Visual Studio 2013\Projects\OptiSchedule\OptiSchedule\OptiSchedule\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Christopher\Documents\Visual Studio 2013\Projects\OptiSchedule\OptiSchedule\OptiSchedule\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Christopher\Documents\Visual Studio 2013\Projects\OptiSchedule\OptiSchedule\OptiSchedule\bin\EntityFramework.dll
+C:\Users\Christopher\Documents\Visual Studio 2013\Projects\OptiSchedule\OptiSchedule\OptiSchedule\bin\EntityFramework.SqlServer.dll
+C:\Users\Christopher\Documents\Visual Studio 2013\Projects\OptiSchedule\OptiSchedule\OptiSchedule\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Christopher\Documents\Visual Studio 2013\Projects\OptiSchedule\OptiSchedule\OptiSchedule\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Christopher\Documents\Visual Studio 2013\Projects\OptiSchedule\OptiSchedule\OptiSchedule\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Christopher\Documents\Visual Studio 2013\Projects\OptiSchedule\OptiSchedule\OptiSchedule\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Christopher\Documents\Visual Studio 2013\Projects\OptiSchedule\OptiSchedule\OptiSchedule\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Christopher\Documents\Visual Studio 2013\Projects\OptiSchedule\OptiSchedule\OptiSchedule\bin\Microsoft.Owin.dll
+C:\Users\Christopher\Documents\Visual Studio 2013\Projects\OptiSchedule\OptiSchedule\OptiSchedule\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Christopher\Documents\Visual Studio 2013\Projects\OptiSchedule\OptiSchedule\OptiSchedule\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Christopher\Documents\Visual Studio 2013\Projects\OptiSchedule\OptiSchedule\OptiSchedule\bin\Microsoft.Owin.Security.dll
+C:\Users\Christopher\Documents\Visual Studio 2013\Projects\OptiSchedule\OptiSchedule\OptiSchedule\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Christopher\Documents\Visual Studio 2013\Projects\OptiSchedule\OptiSchedule\OptiSchedule\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Christopher\Documents\Visual Studio 2013\Projects\OptiSchedule\OptiSchedule\OptiSchedule\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Christopher\Documents\Visual Studio 2013\Projects\OptiSchedule\OptiSchedule\OptiSchedule\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Christopher\Documents\Visual Studio 2013\Projects\OptiSchedule\OptiSchedule\OptiSchedule\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Christopher\Documents\Visual Studio 2013\Projects\OptiSchedule\OptiSchedule\OptiSchedule\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Christopher\Documents\Visual Studio 2013\Projects\OptiSchedule\OptiSchedule\OptiSchedule\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Christopher\Documents\Visual Studio 2013\Projects\OptiSchedule\OptiSchedule\OptiSchedule\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Christopher\Documents\Visual Studio 2013\Projects\OptiSchedule\OptiSchedule\OptiSchedule\bin\Newtonsoft.Json.dll
+C:\Users\Christopher\Documents\Visual Studio 2013\Projects\OptiSchedule\OptiSchedule\OptiSchedule\bin\Owin.dll
+C:\Users\Christopher\Documents\Visual Studio 2013\Projects\OptiSchedule\OptiSchedule\OptiSchedule\bin\System.Web.Optimization.dll
+C:\Users\Christopher\Documents\Visual Studio 2013\Projects\OptiSchedule\OptiSchedule\OptiSchedule\bin\System.Web.Providers.dll
+C:\Users\Christopher\Documents\Visual Studio 2013\Projects\OptiSchedule\OptiSchedule\OptiSchedule\bin\WebGrease.dll
+C:\Users\Christopher\Documents\Visual Studio 2013\Projects\OptiSchedule\OptiSchedule\OptiSchedule\bin\System.Web.Optimization.xml
+C:\Users\Christopher\Documents\Visual Studio 2013\Projects\OptiSchedule\OptiSchedule\OptiSchedule\bin\Antlr3.Runtime.pdb
+C:\Users\Christopher\Documents\Visual Studio 2013\Projects\OptiSchedule\OptiSchedule\OptiSchedule\bin\Newtonsoft.Json.xml
+C:\Users\Christopher\Documents\Visual Studio 2013\Projects\OptiSchedule\OptiSchedule\OptiSchedule\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Christopher\Documents\Visual Studio 2013\Projects\OptiSchedule\OptiSchedule\OptiSchedule\bin\EntityFramework.xml
+C:\Users\Christopher\Documents\Visual Studio 2013\Projects\OptiSchedule\OptiSchedule\OptiSchedule\bin\EntityFramework.SqlServer.xml
+C:\Users\Christopher\Documents\Visual Studio 2013\Projects\OptiSchedule\OptiSchedule\OptiSchedule\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Christopher\Documents\Visual Studio 2013\Projects\OptiSchedule\OptiSchedule\OptiSchedule\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Christopher\Documents\Visual Studio 2013\Projects\OptiSchedule\OptiSchedule\OptiSchedule\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Christopher\Documents\Visual Studio 2013\Projects\OptiSchedule\OptiSchedule\OptiSchedule\bin\Microsoft.Owin.xml
+C:\Users\Christopher\Documents\Visual Studio 2013\Projects\OptiSchedule\OptiSchedule\OptiSchedule\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Christopher\Documents\Visual Studio 2013\Projects\OptiSchedule\OptiSchedule\OptiSchedule\bin\Microsoft.Owin.Security.xml
+C:\Users\Christopher\Documents\Visual Studio 2013\Projects\OptiSchedule\OptiSchedule\OptiSchedule\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Christopher\Documents\Visual Studio 2013\Projects\OptiSchedule\OptiSchedule\OptiSchedule\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Christopher\Documents\Visual Studio 2013\Projects\OptiSchedule\OptiSchedule\OptiSchedule\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Christopher\Documents\Visual Studio 2013\Projects\OptiSchedule\OptiSchedule\OptiSchedule\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Christopher\Documents\Visual Studio 2013\Projects\OptiSchedule\OptiSchedule\OptiSchedule\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Christopher\Documents\Visual Studio 2013\Projects\OptiSchedule\OptiSchedule\OptiSchedule\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Christopher\Documents\Visual Studio 2013\Projects\OptiSchedule\OptiSchedule\OptiSchedule\obj\Debug\OptiSchedule.csprojResolveAssemblyReference.cache
+C:\Users\Christopher\Documents\Visual Studio 2013\Projects\OptiSchedule\OptiSchedule\OptiSchedule\obj\Debug\OptiSchedule.dll
+C:\Users\Christopher\Documents\Visual Studio 2013\Projects\OptiSchedule\OptiSchedule\OptiSchedule\obj\Debug\OptiSchedule.pdb
+E:\Backups\Acer\Visual Studio 2013\Projects\OptiSchedule\OptiSchedule\OptiSchedule\bin\OptiSchedule.dll.config
+E:\Backups\Acer\Visual Studio 2013\Projects\OptiSchedule\OptiSchedule\OptiSchedule\bin\OptiSchedule.dll
+E:\Backups\Acer\Visual Studio 2013\Projects\OptiSchedule\OptiSchedule\OptiSchedule\bin\OptiSchedule.pdb
+E:\Backups\Acer\Visual Studio 2013\Projects\OptiSchedule\OptiSchedule\OptiSchedule\bin\Antlr3.Runtime.dll
+E:\Backups\Acer\Visual Studio 2013\Projects\OptiSchedule\OptiSchedule\OptiSchedule\bin\AspNet.ScriptManager.bootstrap.dll
+E:\Backups\Acer\Visual Studio 2013\Projects\OptiSchedule\OptiSchedule\OptiSchedule\bin\AspNet.ScriptManager.jQuery.dll
+E:\Backups\Acer\Visual Studio 2013\Projects\OptiSchedule\OptiSchedule\OptiSchedule\bin\EntityFramework.dll
+E:\Backups\Acer\Visual Studio 2013\Projects\OptiSchedule\OptiSchedule\OptiSchedule\bin\EntityFramework.SqlServer.dll
+E:\Backups\Acer\Visual Studio 2013\Projects\OptiSchedule\OptiSchedule\OptiSchedule\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\Backups\Acer\Visual Studio 2013\Projects\OptiSchedule\OptiSchedule\OptiSchedule\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Backups\Acer\Visual Studio 2013\Projects\OptiSchedule\OptiSchedule\OptiSchedule\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Backups\Acer\Visual Studio 2013\Projects\OptiSchedule\OptiSchedule\OptiSchedule\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Backups\Acer\Visual Studio 2013\Projects\OptiSchedule\OptiSchedule\OptiSchedule\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\Backups\Acer\Visual Studio 2013\Projects\OptiSchedule\OptiSchedule\OptiSchedule\bin\Microsoft.Owin.dll
+E:\Backups\Acer\Visual Studio 2013\Projects\OptiSchedule\OptiSchedule\OptiSchedule\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Backups\Acer\Visual Studio 2013\Projects\OptiSchedule\OptiSchedule\OptiSchedule\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Backups\Acer\Visual Studio 2013\Projects\OptiSchedule\OptiSchedule\OptiSchedule\bin\Microsoft.Owin.Security.dll
+E:\Backups\Acer\Visual Studio 2013\Projects\OptiSchedule\OptiSchedule\OptiSchedule\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Backups\Acer\Visual Studio 2013\Projects\OptiSchedule\OptiSchedule\OptiSchedule\bin\Microsoft.Owin.Security.Google.dll
+E:\Backups\Acer\Visual Studio 2013\Projects\OptiSchedule\OptiSchedule\OptiSchedule\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Backups\Acer\Visual Studio 2013\Projects\OptiSchedule\OptiSchedule\OptiSchedule\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Backups\Acer\Visual Studio 2013\Projects\OptiSchedule\OptiSchedule\OptiSchedule\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Backups\Acer\Visual Studio 2013\Projects\OptiSchedule\OptiSchedule\OptiSchedule\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\Backups\Acer\Visual Studio 2013\Projects\OptiSchedule\OptiSchedule\OptiSchedule\bin\Microsoft.ScriptManager.WebForms.dll
+E:\Backups\Acer\Visual Studio 2013\Projects\OptiSchedule\OptiSchedule\OptiSchedule\bin\Microsoft.Web.Infrastructure.dll
+E:\Backups\Acer\Visual Studio 2013\Projects\OptiSchedule\OptiSchedule\OptiSchedule\bin\Newtonsoft.Json.dll
+E:\Backups\Acer\Visual Studio 2013\Projects\OptiSchedule\OptiSchedule\OptiSchedule\bin\Owin.dll
+E:\Backups\Acer\Visual Studio 2013\Projects\OptiSchedule\OptiSchedule\OptiSchedule\bin\System.Web.Optimization.dll
+E:\Backups\Acer\Visual Studio 2013\Projects\OptiSchedule\OptiSchedule\OptiSchedule\bin\System.Web.Providers.dll
+E:\Backups\Acer\Visual Studio 2013\Projects\OptiSchedule\OptiSchedule\OptiSchedule\bin\WebGrease.dll
+E:\Backups\Acer\Visual Studio 2013\Projects\OptiSchedule\OptiSchedule\OptiSchedule\bin\System.Web.Optimization.xml
+E:\Backups\Acer\Visual Studio 2013\Projects\OptiSchedule\OptiSchedule\OptiSchedule\bin\Antlr3.Runtime.pdb
+E:\Backups\Acer\Visual Studio 2013\Projects\OptiSchedule\OptiSchedule\OptiSchedule\bin\Newtonsoft.Json.xml
+E:\Backups\Acer\Visual Studio 2013\Projects\OptiSchedule\OptiSchedule\OptiSchedule\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\Backups\Acer\Visual Studio 2013\Projects\OptiSchedule\OptiSchedule\OptiSchedule\bin\EntityFramework.xml
+E:\Backups\Acer\Visual Studio 2013\Projects\OptiSchedule\OptiSchedule\OptiSchedule\bin\EntityFramework.SqlServer.xml
+E:\Backups\Acer\Visual Studio 2013\Projects\OptiSchedule\OptiSchedule\OptiSchedule\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Backups\Acer\Visual Studio 2013\Projects\OptiSchedule\OptiSchedule\OptiSchedule\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Backups\Acer\Visual Studio 2013\Projects\OptiSchedule\OptiSchedule\OptiSchedule\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Backups\Acer\Visual Studio 2013\Projects\OptiSchedule\OptiSchedule\OptiSchedule\bin\Microsoft.Owin.xml
+E:\Backups\Acer\Visual Studio 2013\Projects\OptiSchedule\OptiSchedule\OptiSchedule\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Backups\Acer\Visual Studio 2013\Projects\OptiSchedule\OptiSchedule\OptiSchedule\bin\Microsoft.Owin.Security.xml
+E:\Backups\Acer\Visual Studio 2013\Projects\OptiSchedule\OptiSchedule\OptiSchedule\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Backups\Acer\Visual Studio 2013\Projects\OptiSchedule\OptiSchedule\OptiSchedule\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Backups\Acer\Visual Studio 2013\Projects\OptiSchedule\OptiSchedule\OptiSchedule\bin\Microsoft.Owin.Security.Google.xml
+E:\Backups\Acer\Visual Studio 2013\Projects\OptiSchedule\OptiSchedule\OptiSchedule\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Backups\Acer\Visual Studio 2013\Projects\OptiSchedule\OptiSchedule\OptiSchedule\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Backups\Acer\Visual Studio 2013\Projects\OptiSchedule\OptiSchedule\OptiSchedule\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Backups\Acer\Visual Studio 2013\Projects\OptiSchedule\OptiSchedule\OptiSchedule\obj\Debug\OptiSchedule.csprojResolveAssemblyReference.cache
+E:\Backups\Acer\Visual Studio 2013\Projects\OptiSchedule\OptiSchedule\OptiSchedule\obj\Debug\OptiSchedule.dll
+E:\Backups\Acer\Visual Studio 2013\Projects\OptiSchedule\OptiSchedule\OptiSchedule\obj\Debug\OptiSchedule.pdb
+H:\Senior Project\OptiSchedule\OptiSchedule\OptiSchedule\obj\Debug\OptiSchedule.csprojResolveAssemblyReference.cache
+H:\Senior Project\OptiSchedule\OptiSchedule\OptiSchedule\obj\Debug\OptiSchedule.dll
+H:\Senior Project\OptiSchedule\OptiSchedule\OptiSchedule\obj\Debug\OptiSchedule.pdb
+I:\Senior Project\OptiSchedule\OptiSchedule\OptiSchedule\OptiSchedule\bin\OptiSchedule.dll.config
+I:\Senior Project\OptiSchedule\OptiSchedule\OptiSchedule\OptiSchedule\bin\OptiSchedule.dll
+I:\Senior Project\OptiSchedule\OptiSchedule\OptiSchedule\OptiSchedule\bin\OptiSchedule.pdb
+I:\Senior Project\OptiSchedule\OptiSchedule\OptiSchedule\OptiSchedule\bin\Antlr3.Runtime.dll
+I:\Senior Project\OptiSchedule\OptiSchedule\OptiSchedule\OptiSchedule\bin\Microsoft.Web.Infrastructure.dll
+I:\Senior Project\OptiSchedule\OptiSchedule\OptiSchedule\OptiSchedule\bin\Newtonsoft.Json.dll
+I:\Senior Project\OptiSchedule\OptiSchedule\OptiSchedule\OptiSchedule\bin\System.Web.Optimization.xml
+I:\Senior Project\OptiSchedule\OptiSchedule\OptiSchedule\OptiSchedule\bin\Antlr3.Runtime.pdb
+I:\Senior Project\OptiSchedule\OptiSchedule\OptiSchedule\OptiSchedule\bin\Newtonsoft.Json.xml
+I:\Senior Project\OptiSchedule\OptiSchedule\OptiSchedule\OptiSchedule\bin\Microsoft.AspNet.FriendlyUrls.xml
+I:\Senior Project\OptiSchedule\OptiSchedule\OptiSchedule\OptiSchedule\bin\EntityFramework.xml
+I:\Senior Project\OptiSchedule\OptiSchedule\OptiSchedule\OptiSchedule\bin\EntityFramework.SqlServer.xml
+I:\Senior Project\OptiSchedule\OptiSchedule\OptiSchedule\OptiSchedule\bin\Microsoft.AspNet.Identity.Core.xml
+I:\Senior Project\OptiSchedule\OptiSchedule\OptiSchedule\OptiSchedule\bin\Microsoft.AspNet.Identity.Owin.xml
+I:\Senior Project\OptiSchedule\OptiSchedule\OptiSchedule\OptiSchedule\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+I:\Senior Project\OptiSchedule\OptiSchedule\OptiSchedule\OptiSchedule\bin\Microsoft.Owin.xml
+I:\Senior Project\OptiSchedule\OptiSchedule\OptiSchedule\OptiSchedule\bin\Microsoft.Owin.Host.SystemWeb.xml
+I:\Senior Project\OptiSchedule\OptiSchedule\OptiSchedule\OptiSchedule\bin\Microsoft.Owin.Security.xml
+I:\Senior Project\OptiSchedule\OptiSchedule\OptiSchedule\OptiSchedule\bin\Microsoft.Owin.Security.Facebook.xml
+I:\Senior Project\OptiSchedule\OptiSchedule\OptiSchedule\OptiSchedule\bin\Microsoft.Owin.Security.Cookies.xml
+I:\Senior Project\OptiSchedule\OptiSchedule\OptiSchedule\OptiSchedule\bin\Microsoft.Owin.Security.Google.xml
+I:\Senior Project\OptiSchedule\OptiSchedule\OptiSchedule\OptiSchedule\bin\Microsoft.Owin.Security.Twitter.xml
+I:\Senior Project\OptiSchedule\OptiSchedule\OptiSchedule\OptiSchedule\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+I:\Senior Project\OptiSchedule\OptiSchedule\OptiSchedule\OptiSchedule\bin\Microsoft.Owin.Security.OAuth.xml
+I:\Senior Project\OptiSchedule\OptiSchedule\OptiSchedule\OptiSchedule\obj\Debug\OptiSchedule.dll
+I:\Senior Project\OptiSchedule\OptiSchedule\OptiSchedule\OptiSchedule\obj\Debug\OptiSchedule.pdb
+I:\Senior Project\OptiSchedule\OptiSchedule\OptiSchedule\OptiSchedule\bin\AspNet.ScriptManager.bootstrap.dll
+I:\Senior Project\OptiSchedule\OptiSchedule\OptiSchedule\OptiSchedule\bin\AspNet.ScriptManager.jQuery.dll
+I:\Senior Project\OptiSchedule\OptiSchedule\OptiSchedule\OptiSchedule\bin\EntityFramework.dll
+I:\Senior Project\OptiSchedule\OptiSchedule\OptiSchedule\OptiSchedule\bin\EntityFramework.SqlServer.dll
+I:\Senior Project\OptiSchedule\OptiSchedule\OptiSchedule\OptiSchedule\bin\Microsoft.AspNet.FriendlyUrls.dll
+I:\Senior Project\OptiSchedule\OptiSchedule\OptiSchedule\OptiSchedule\bin\Microsoft.AspNet.Identity.Core.dll
+I:\Senior Project\OptiSchedule\OptiSchedule\OptiSchedule\OptiSchedule\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+I:\Senior Project\OptiSchedule\OptiSchedule\OptiSchedule\OptiSchedule\bin\Microsoft.AspNet.Identity.Owin.dll
+I:\Senior Project\OptiSchedule\OptiSchedule\OptiSchedule\OptiSchedule\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+I:\Senior Project\OptiSchedule\OptiSchedule\OptiSchedule\OptiSchedule\bin\Microsoft.Owin.dll
+I:\Senior Project\OptiSchedule\OptiSchedule\OptiSchedule\OptiSchedule\bin\Microsoft.Owin.Host.SystemWeb.dll
+I:\Senior Project\OptiSchedule\OptiSchedule\OptiSchedule\OptiSchedule\bin\Microsoft.Owin.Security.Cookies.dll
+I:\Senior Project\OptiSchedule\OptiSchedule\OptiSchedule\OptiSchedule\bin\Microsoft.Owin.Security.dll
+I:\Senior Project\OptiSchedule\OptiSchedule\OptiSchedule\OptiSchedule\bin\Microsoft.Owin.Security.Facebook.dll
+I:\Senior Project\OptiSchedule\OptiSchedule\OptiSchedule\OptiSchedule\bin\Microsoft.Owin.Security.Google.dll
+I:\Senior Project\OptiSchedule\OptiSchedule\OptiSchedule\OptiSchedule\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+I:\Senior Project\OptiSchedule\OptiSchedule\OptiSchedule\OptiSchedule\bin\Microsoft.Owin.Security.OAuth.dll
+I:\Senior Project\OptiSchedule\OptiSchedule\OptiSchedule\OptiSchedule\bin\Microsoft.Owin.Security.Twitter.dll
+I:\Senior Project\OptiSchedule\OptiSchedule\OptiSchedule\OptiSchedule\bin\Microsoft.ScriptManager.MSAjax.dll
+I:\Senior Project\OptiSchedule\OptiSchedule\OptiSchedule\OptiSchedule\bin\Microsoft.ScriptManager.WebForms.dll
+I:\Senior Project\OptiSchedule\OptiSchedule\OptiSchedule\OptiSchedule\bin\Owin.dll
+I:\Senior Project\OptiSchedule\OptiSchedule\OptiSchedule\OptiSchedule\bin\System.Web.Optimization.dll
+I:\Senior Project\OptiSchedule\OptiSchedule\OptiSchedule\OptiSchedule\bin\System.Web.Providers.dll
+I:\Senior Project\OptiSchedule\OptiSchedule\OptiSchedule\OptiSchedule\bin\WebGrease.dll
+I:\Senior Project\OptiSchedule\OptiSchedule\OptiSchedule\OptiSchedule\obj\Debug\OptiSchedule.csprojResolveAssemblyReference.cache
+I:\Senior Project\OptiSchedule\OptiSchedule\OptiSchedule\OptiSchedule\bin\TimePicker.dll
+H:\Senior Project\OptiSchedule\OptiSchedule\OptiSchedule\OptiSchedule\bin\OptiSchedule.dll.config
+H:\Senior Project\OptiSchedule\OptiSchedule\OptiSchedule\OptiSchedule\bin\OptiSchedule.dll
+H:\Senior Project\OptiSchedule\OptiSchedule\OptiSchedule\OptiSchedule\bin\OptiSchedule.pdb
+H:\Senior Project\OptiSchedule\OptiSchedule\OptiSchedule\OptiSchedule\bin\Antlr3.Runtime.dll
+H:\Senior Project\OptiSchedule\OptiSchedule\OptiSchedule\OptiSchedule\bin\AspNet.ScriptManager.bootstrap.dll
+H:\Senior Project\OptiSchedule\OptiSchedule\OptiSchedule\OptiSchedule\bin\AspNet.ScriptManager.jQuery.dll
+H:\Senior Project\OptiSchedule\OptiSchedule\OptiSchedule\OptiSchedule\bin\EntityFramework.dll
+H:\Senior Project\OptiSchedule\OptiSchedule\OptiSchedule\OptiSchedule\bin\EntityFramework.SqlServer.dll
+H:\Senior Project\OptiSchedule\OptiSchedule\OptiSchedule\OptiSchedule\bin\Microsoft.AspNet.FriendlyUrls.dll
+H:\Senior Project\OptiSchedule\OptiSchedule\OptiSchedule\OptiSchedule\bin\Microsoft.AspNet.Identity.Core.dll
+H:\Senior Project\OptiSchedule\OptiSchedule\OptiSchedule\OptiSchedule\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+H:\Senior Project\OptiSchedule\OptiSchedule\OptiSchedule\OptiSchedule\bin\Microsoft.AspNet.Identity.Owin.dll
+H:\Senior Project\OptiSchedule\OptiSchedule\OptiSchedule\OptiSchedule\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+H:\Senior Project\OptiSchedule\OptiSchedule\OptiSchedule\OptiSchedule\bin\Microsoft.Owin.dll
+H:\Senior Project\OptiSchedule\OptiSchedule\OptiSchedule\OptiSchedule\bin\Microsoft.Owin.Host.SystemWeb.dll
+H:\Senior Project\OptiSchedule\OptiSchedule\OptiSchedule\OptiSchedule\bin\Microsoft.Owin.Security.Cookies.dll
+H:\Senior Project\OptiSchedule\OptiSchedule\OptiSchedule\OptiSchedule\bin\Microsoft.Owin.Security.dll
+H:\Senior Project\OptiSchedule\OptiSchedule\OptiSchedule\OptiSchedule\bin\Microsoft.Owin.Security.Facebook.dll
+H:\Senior Project\OptiSchedule\OptiSchedule\OptiSchedule\OptiSchedule\bin\Microsoft.Owin.Security.Google.dll
+H:\Senior Project\OptiSchedule\OptiSchedule\OptiSchedule\OptiSchedule\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+H:\Senior Project\OptiSchedule\OptiSchedule\OptiSchedule\OptiSchedule\bin\Microsoft.Owin.Security.OAuth.dll
+H:\Senior Project\OptiSchedule\OptiSchedule\OptiSchedule\OptiSchedule\bin\Microsoft.Owin.Security.Twitter.dll
+H:\Senior Project\OptiSchedule\OptiSchedule\OptiSchedule\OptiSchedule\bin\Microsoft.ScriptManager.MSAjax.dll
+H:\Senior Project\OptiSchedule\OptiSchedule\OptiSchedule\OptiSchedule\bin\Microsoft.ScriptManager.WebForms.dll
+H:\Senior Project\OptiSchedule\OptiSchedule\OptiSchedule\OptiSchedule\bin\Microsoft.Web.Infrastructure.dll
+H:\Senior Project\OptiSchedule\OptiSchedule\OptiSchedule\OptiSchedule\bin\Newtonsoft.Json.dll
+H:\Senior Project\OptiSchedule\OptiSchedule\OptiSchedule\OptiSchedule\bin\Owin.dll
+H:\Senior Project\OptiSchedule\OptiSchedule\OptiSchedule\OptiSchedule\bin\System.Web.Optimization.dll
+H:\Senior Project\OptiSchedule\OptiSchedule\OptiSchedule\OptiSchedule\bin\System.Web.Providers.dll
+H:\Senior Project\OptiSchedule\OptiSchedule\OptiSchedule\OptiSchedule\bin\WebGrease.dll
+H:\Senior Project\OptiSchedule\OptiSchedule\OptiSchedule\OptiSchedule\bin\System.Web.Optimization.xml
+H:\Senior Project\OptiSchedule\OptiSchedule\OptiSchedule\OptiSchedule\bin\Antlr3.Runtime.pdb
+H:\Senior Project\OptiSchedule\OptiSchedule\OptiSchedule\OptiSchedule\bin\Newtonsoft.Json.xml
+H:\Senior Project\OptiSchedule\OptiSchedule\OptiSchedule\OptiSchedule\bin\Microsoft.AspNet.FriendlyUrls.xml
+H:\Senior Project\OptiSchedule\OptiSchedule\OptiSchedule\OptiSchedule\bin\EntityFramework.xml
+H:\Senior Project\OptiSchedule\OptiSchedule\OptiSchedule\OptiSchedule\bin\EntityFramework.SqlServer.xml
+H:\Senior Project\OptiSchedule\OptiSchedule\OptiSchedule\OptiSchedule\bin\Microsoft.AspNet.Identity.Core.xml
+H:\Senior Project\OptiSchedule\OptiSchedule\OptiSchedule\OptiSchedule\bin\Microsoft.AspNet.Identity.Owin.xml
+H:\Senior Project\OptiSchedule\OptiSchedule\OptiSchedule\OptiSchedule\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+H:\Senior Project\OptiSchedule\OptiSchedule\OptiSchedule\OptiSchedule\bin\Microsoft.Owin.xml
+H:\Senior Project\OptiSchedule\OptiSchedule\OptiSchedule\OptiSchedule\bin\Microsoft.Owin.Host.SystemWeb.xml
+H:\Senior Project\OptiSchedule\OptiSchedule\OptiSchedule\OptiSchedule\bin\Microsoft.Owin.Security.xml
+H:\Senior Project\OptiSchedule\OptiSchedule\OptiSchedule\OptiSchedule\bin\Microsoft.Owin.Security.Facebook.xml
+H:\Senior Project\OptiSchedule\OptiSchedule\OptiSchedule\OptiSchedule\bin\Microsoft.Owin.Security.Cookies.xml
+H:\Senior Project\OptiSchedule\OptiSchedule\OptiSchedule\OptiSchedule\bin\Microsoft.Owin.Security.Google.xml
+H:\Senior Project\OptiSchedule\OptiSchedule\OptiSchedule\OptiSchedule\bin\Microsoft.Owin.Security.Twitter.xml
+H:\Senior Project\OptiSchedule\OptiSchedule\OptiSchedule\OptiSchedule\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+H:\Senior Project\OptiSchedule\OptiSchedule\OptiSchedule\OptiSchedule\bin\Microsoft.Owin.Security.OAuth.xml
+H:\Senior Project\OptiSchedule\OptiSchedule\OptiSchedule\OptiSchedule\obj\Debug\OptiSchedule.csprojResolveAssemblyReference.cache
+H:\Senior Project\OptiSchedule\OptiSchedule\OptiSchedule\OptiSchedule\obj\Debug\OptiSchedule.dll
+H:\Senior Project\OptiSchedule\OptiSchedule\OptiSchedule\OptiSchedule\obj\Debug\OptiSchedule.pdb
+F:\OptiSchedule\OptiSchedule\bin\OptiSchedule.dll.config
+F:\OptiSchedule\OptiSchedule\bin\OptiSchedule.dll
+F:\OptiSchedule\OptiSchedule\bin\OptiSchedule.pdb
+F:\OptiSchedule\OptiSchedule\bin\Antlr3.Runtime.dll
+F:\OptiSchedule\OptiSchedule\bin\AspNet.ScriptManager.bootstrap.dll
+F:\OptiSchedule\OptiSchedule\bin\AspNet.ScriptManager.jQuery.dll
+F:\OptiSchedule\OptiSchedule\bin\EntityFramework.dll
+F:\OptiSchedule\OptiSchedule\bin\EntityFramework.SqlServer.dll
+F:\OptiSchedule\OptiSchedule\bin\Microsoft.AspNet.FriendlyUrls.dll
+F:\OptiSchedule\OptiSchedule\bin\Microsoft.AspNet.Identity.Core.dll
+F:\OptiSchedule\OptiSchedule\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\OptiSchedule\OptiSchedule\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\OptiSchedule\OptiSchedule\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+F:\OptiSchedule\OptiSchedule\bin\Microsoft.Owin.dll
+F:\OptiSchedule\OptiSchedule\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\OptiSchedule\OptiSchedule\bin\Microsoft.Owin.Security.Cookies.dll
+F:\OptiSchedule\OptiSchedule\bin\Microsoft.Owin.Security.dll
+F:\OptiSchedule\OptiSchedule\bin\Microsoft.Owin.Security.Facebook.dll
+F:\OptiSchedule\OptiSchedule\bin\Microsoft.Owin.Security.Google.dll
+F:\OptiSchedule\OptiSchedule\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\OptiSchedule\OptiSchedule\bin\Microsoft.Owin.Security.OAuth.dll
+F:\OptiSchedule\OptiSchedule\bin\Microsoft.Owin.Security.Twitter.dll
+F:\OptiSchedule\OptiSchedule\bin\Microsoft.ScriptManager.MSAjax.dll
+F:\OptiSchedule\OptiSchedule\bin\Microsoft.ScriptManager.WebForms.dll
+F:\OptiSchedule\OptiSchedule\bin\Microsoft.Web.Infrastructure.dll
+F:\OptiSchedule\OptiSchedule\bin\Newtonsoft.Json.dll
+F:\OptiSchedule\OptiSchedule\bin\Owin.dll
+F:\OptiSchedule\OptiSchedule\bin\System.Web.Optimization.dll
+F:\OptiSchedule\OptiSchedule\bin\System.Web.Providers.dll
+F:\OptiSchedule\OptiSchedule\bin\WebGrease.dll
+F:\OptiSchedule\OptiSchedule\bin\System.Web.Optimization.xml
+F:\OptiSchedule\OptiSchedule\bin\Antlr3.Runtime.pdb
+F:\OptiSchedule\OptiSchedule\bin\Newtonsoft.Json.xml
+F:\OptiSchedule\OptiSchedule\bin\Microsoft.AspNet.FriendlyUrls.xml
+F:\OptiSchedule\OptiSchedule\bin\EntityFramework.xml
+F:\OptiSchedule\OptiSchedule\bin\EntityFramework.SqlServer.xml
+F:\OptiSchedule\OptiSchedule\bin\Microsoft.AspNet.Identity.Core.xml
+F:\OptiSchedule\OptiSchedule\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\OptiSchedule\OptiSchedule\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\OptiSchedule\OptiSchedule\bin\Microsoft.Owin.xml
+F:\OptiSchedule\OptiSchedule\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\OptiSchedule\OptiSchedule\bin\Microsoft.Owin.Security.xml
+F:\OptiSchedule\OptiSchedule\bin\Microsoft.Owin.Security.Facebook.xml
+F:\OptiSchedule\OptiSchedule\bin\Microsoft.Owin.Security.Cookies.xml
+F:\OptiSchedule\OptiSchedule\bin\Microsoft.Owin.Security.Google.xml
+F:\OptiSchedule\OptiSchedule\bin\Microsoft.Owin.Security.Twitter.xml
+F:\OptiSchedule\OptiSchedule\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\OptiSchedule\OptiSchedule\bin\Microsoft.Owin.Security.OAuth.xml
+F:\OptiSchedule\OptiSchedule\obj\Debug\OptiSchedule.csprojResolveAssemblyReference.cache
+F:\OptiSchedule\OptiSchedule\obj\Debug\OptiSchedule.dll
+F:\OptiSchedule\OptiSchedule\obj\Debug\OptiSchedule.pdb
+C:\Users\Christopher\Downloads\OptiSchedule\OptiSchedule\OptiSchedule\bin\OptiSchedule.dll.config
+C:\Users\Christopher\Downloads\OptiSchedule\OptiSchedule\OptiSchedule\bin\OptiSchedule.dll
+C:\Users\Christopher\Downloads\OptiSchedule\OptiSchedule\OptiSchedule\bin\OptiSchedule.pdb
+C:\Users\Christopher\Downloads\OptiSchedule\OptiSchedule\OptiSchedule\bin\Antlr3.Runtime.dll
+C:\Users\Christopher\Downloads\OptiSchedule\OptiSchedule\OptiSchedule\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Christopher\Downloads\OptiSchedule\OptiSchedule\OptiSchedule\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Christopher\Downloads\OptiSchedule\OptiSchedule\OptiSchedule\bin\EntityFramework.dll
+C:\Users\Christopher\Downloads\OptiSchedule\OptiSchedule\OptiSchedule\bin\EntityFramework.SqlServer.dll
+C:\Users\Christopher\Downloads\OptiSchedule\OptiSchedule\OptiSchedule\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Christopher\Downloads\OptiSchedule\OptiSchedule\OptiSchedule\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Christopher\Downloads\OptiSchedule\OptiSchedule\OptiSchedule\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Christopher\Downloads\OptiSchedule\OptiSchedule\OptiSchedule\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Christopher\Downloads\OptiSchedule\OptiSchedule\OptiSchedule\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Christopher\Downloads\OptiSchedule\OptiSchedule\OptiSchedule\bin\Microsoft.Owin.dll
+C:\Users\Christopher\Downloads\OptiSchedule\OptiSchedule\OptiSchedule\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Christopher\Downloads\OptiSchedule\OptiSchedule\OptiSchedule\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Christopher\Downloads\OptiSchedule\OptiSchedule\OptiSchedule\bin\Microsoft.Owin.Security.dll
+C:\Users\Christopher\Downloads\OptiSchedule\OptiSchedule\OptiSchedule\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Christopher\Downloads\OptiSchedule\OptiSchedule\OptiSchedule\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Christopher\Downloads\OptiSchedule\OptiSchedule\OptiSchedule\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Christopher\Downloads\OptiSchedule\OptiSchedule\OptiSchedule\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Christopher\Downloads\OptiSchedule\OptiSchedule\OptiSchedule\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Christopher\Downloads\OptiSchedule\OptiSchedule\OptiSchedule\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Christopher\Downloads\OptiSchedule\OptiSchedule\OptiSchedule\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Christopher\Downloads\OptiSchedule\OptiSchedule\OptiSchedule\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Christopher\Downloads\OptiSchedule\OptiSchedule\OptiSchedule\bin\Newtonsoft.Json.dll
+C:\Users\Christopher\Downloads\OptiSchedule\OptiSchedule\OptiSchedule\bin\Owin.dll
+C:\Users\Christopher\Downloads\OptiSchedule\OptiSchedule\OptiSchedule\bin\System.Web.Optimization.dll
+C:\Users\Christopher\Downloads\OptiSchedule\OptiSchedule\OptiSchedule\bin\System.Web.Providers.dll
+C:\Users\Christopher\Downloads\OptiSchedule\OptiSchedule\OptiSchedule\bin\TimePicker.dll
+C:\Users\Christopher\Downloads\OptiSchedule\OptiSchedule\OptiSchedule\bin\WebGrease.dll
+C:\Users\Christopher\Downloads\OptiSchedule\OptiSchedule\OptiSchedule\bin\System.Web.Optimization.xml
+C:\Users\Christopher\Downloads\OptiSchedule\OptiSchedule\OptiSchedule\bin\Antlr3.Runtime.pdb
+C:\Users\Christopher\Downloads\OptiSchedule\OptiSchedule\OptiSchedule\bin\Newtonsoft.Json.xml
+C:\Users\Christopher\Downloads\OptiSchedule\OptiSchedule\OptiSchedule\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Christopher\Downloads\OptiSchedule\OptiSchedule\OptiSchedule\bin\EntityFramework.xml
+C:\Users\Christopher\Downloads\OptiSchedule\OptiSchedule\OptiSchedule\bin\EntityFramework.SqlServer.xml
+C:\Users\Christopher\Downloads\OptiSchedule\OptiSchedule\OptiSchedule\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Christopher\Downloads\OptiSchedule\OptiSchedule\OptiSchedule\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Christopher\Downloads\OptiSchedule\OptiSchedule\OptiSchedule\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Christopher\Downloads\OptiSchedule\OptiSchedule\OptiSchedule\bin\Microsoft.Owin.xml
+C:\Users\Christopher\Downloads\OptiSchedule\OptiSchedule\OptiSchedule\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Christopher\Downloads\OptiSchedule\OptiSchedule\OptiSchedule\bin\Microsoft.Owin.Security.xml
+C:\Users\Christopher\Downloads\OptiSchedule\OptiSchedule\OptiSchedule\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Christopher\Downloads\OptiSchedule\OptiSchedule\OptiSchedule\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Christopher\Downloads\OptiSchedule\OptiSchedule\OptiSchedule\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Christopher\Downloads\OptiSchedule\OptiSchedule\OptiSchedule\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Christopher\Downloads\OptiSchedule\OptiSchedule\OptiSchedule\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Christopher\Downloads\OptiSchedule\OptiSchedule\OptiSchedule\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Christopher\Downloads\OptiSchedule\OptiSchedule\OptiSchedule\obj\Debug\OptiSchedule.csprojResolveAssemblyReference.cache
+C:\Users\Christopher\Downloads\OptiSchedule\OptiSchedule\OptiSchedule\obj\Debug\OptiSchedule.dll
+C:\Users\Christopher\Downloads\OptiSchedule\OptiSchedule\OptiSchedule\obj\Debug\OptiSchedule.pdb

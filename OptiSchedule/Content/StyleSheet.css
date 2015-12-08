@@ -1,0 +1,70 @@
+﻿body {
+    background-color: #eeeeee;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    font-family: 'Segoe WP SemiLight', Dotum, sans-serif;
+    font-size: 48px;
+    margin: 10px;
+    text-align: center;
+}
+
+h2 {
+    font-family: 'Segoe WP SemiLight', Dotum, sans-serif;
+    clear: both;
+    margin: 0;
+}
+
+.main {
+    background-color: #e8eaf2;
+    border: double 3px #000000;
+    margin: 10px auto 0 auto;
+    padding: 20px;
+    width: 66.5%;
+}
+
+.main td {
+    padding: 5px 10px 5px 10px;
+}
+
+.navbar {
+    background-color: #2b2b33;
+    border-radius: 10px;
+    height: 40px;
+    margin: 0 auto 0 auto;
+    text-align: center;
+    width: 70%;
+}
+
+.nav-links {
+    list-style-type: none;
+    margin-left: 10%;
+    text-align: center;
+}
+
+.nav-links li {
+    float: left;
+    margin: 0 10px 0 auto;
+    padding: 10px;
+}
+
+.nav-links li a:link {
+    color: #d8d8d8;
+    text-decoration: none;
+}
+
+.nav-links li a:visited {
+    color: #d8d8d8;
+    text-decoration: none;
+}
+
+.nav-links li a:hover {
+    color: #ffffff;
+    text-decoration: underline;
+}
+
+.nav-links li a:active {
+    color: #d8d8d8;
+    text-decoration: none;
+}
